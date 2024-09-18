@@ -53,7 +53,7 @@ Demonstrates the usage of the Perishable and NonPerishable classes by creating i
 **How to Run**
 1.Clone the repository:
 Clone this project to your local machine using the following command:
-git clone https://github.com/your-username/product-inheritance-system.git
+git clone https://github.com/LindeloMaNkosi/product-inheritance-system.git
 
 2.Navigate to the project directory:
 cd product-inheritance-system
